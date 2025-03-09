@@ -168,6 +168,23 @@
   resolved "https://registry.npmmirror.com/@esbuild/win32-x64/-/win32-x64-0.25.0.tgz"
   integrity sha512-ZENoHJBxA20C2zFzh6AI4fT6RraMzjYw4xKWemRTRmRVtN9c5DcH9r/f2ihEkMjOW5eGgrwCslG/+Y/3bL+DHQ==
 
+"@ffmpeg/core@^0.12.10":
+  version "0.12.10"
+  resolved "https://registry.npmmirror.com/@ffmpeg/core/-/core-0.12.10.tgz"
+  integrity sha512-dzNplnn2Nxle2c2i2rrDhqcB19q9cglCkWnoMTDN9Q9l3PvdjZWd1HfSPjCNWc/p8Q3CT+Es9fWOR0UhAeYQZA==
+
+"@ffmpeg/ffmpeg@^0.12.15":
+  version "0.12.15"
+  resolved "https://registry.npmmirror.com/@ffmpeg/ffmpeg/-/ffmpeg-0.12.15.tgz"
+  integrity sha512-1C8Obr4GsN3xw+/1Ww6PFM84wSQAGsdoTuTWPOj2OizsRDLT4CXTaVjPhkw6ARyDus1B9X/L2LiXHqYYsGnRFw==
+  dependencies:
+    "@ffmpeg/types" "^0.12.4"
+
+"@ffmpeg/types@^0.12.4":
+  version "0.12.4"
+  resolved "https://registry.npmmirror.com/@ffmpeg/types/-/types-0.12.4.tgz"
+  integrity sha512-k9vJQNBGTxE5AhYDtOYR5rO5fKsspbg51gbcwtbkw2lCdoIILzklulcjJfIDwrtn7XhDeF2M+THwJ2FGrLeV6A==
+
 "@jridgewell/gen-mapping@^0.3.5":
   version "0.3.8"
   resolved "https://registry.npmmirror.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.8.tgz"
